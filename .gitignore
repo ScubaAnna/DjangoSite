@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+virt
+db.sqlite3
+.DS_Store 
+*.txt
+test.py
+comments_for_Python.txt
